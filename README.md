@@ -34,7 +34,7 @@ greenBean.connect("range", function (range) {
 ## Appendix
 
 ### Appliance Type
-The following is a list of the available appliance Types.
+The following is a list of the available appliance types.
 
 | Appliance Type                                                      |
 |:--------------------------------------------------------------------|
