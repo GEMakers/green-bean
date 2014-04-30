@@ -22,7 +22,8 @@ var adapter = require("gea-adapter-usb");
 
 exports.connect = function (appliance, callback) {
     var app = gea.configure({
-        address: 0x1b
+        address: 0x1b,
+        version: [ 0, 0, 0, 0 ]
     });
 
     app.plugin(require("gea-plugin-" + appliance));
