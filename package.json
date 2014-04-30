@@ -1,0 +1,19 @@
+{
+    "name" : "green-bean",
+    "description" : "GE Green Bean SDK",
+    "homepage" : "https://github.com/GEMakers/green-bean",
+    "keywords" : [ "GE", "GEA", "SDK", "General Electric", "Green Bean" ],
+    "author" : "Christopher Baker <christopher.baker2@ge.com>",
+    "repository" : {
+        "type": "git", "url": "https://github.com/GEMakers/green-bean.git"
+    },
+    "version" : "0.1.0",
+    "dependencies": {
+        "gea-sdk": "git+https://github.com/GEMakers/gea-sdk.git",
+        "gea-adapter-usb": "git+https://github.com/GEMakers/gea-adapter-usb.git",
+        "gea-plugin-range": "git+https://github.com/GEMakers/gea-plugin-range.git",
+        "gea-plugin-dishwasher": "git+https://github.com/GEMakers/gea-plugin-dishwasher.git",
+        "gea-plugin-refrigerator": "git+https://github.com/GEMakers/gea-plugin-refrigerator.git",
+        "gea-plugin-laundry": "git+https://github.com/GEMakers/gea-plugin-laundry.git"
+    }
+}
