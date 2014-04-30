@@ -1,6 +1,6 @@
 {
     "name" : "green-bean",
-    "description" : "GE Green Bean SDK",
+    "description" : "An Adapter for the Appliance Maker Community",
     "homepage" : "https://github.com/GEMakers/green-bean",
     "keywords" : [ "GE", "GEA", "SDK", "General Electric", "Green Bean" ],
     "author" : "Christopher Baker <christopher.baker2@ge.com>",
