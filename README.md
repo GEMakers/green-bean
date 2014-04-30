@@ -6,8 +6,7 @@ This node.js package provides functionality for communicating with an appliance 
 
 - [Installation](#installation)
 - [API](#green-bean-api)
-  - [bus.on("range", callback)](#busonrange-callback)
-    - [range.twelveHourShutoff](#rangetwelvehourshutoff)
+  - [greenBean.connect(applianceType, callback)](#greenbeanconnectappliancetype-callback)
 - [Appendix](#appendix)
   - [Appliance Type](#appliance-type)
 
