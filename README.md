@@ -36,9 +36,9 @@ greenBean.connect("range", function (range) {
 ### Appliance Type
 The following is a list of the available appliance Types.
 
-| Appliance Type                                                              |
-|:----------------------------------------------------------------------------|
-| [range](git+https://github.com/GEMakers/gea-plugin-range.git)               |
-| [dishwasher](git+https://github.com/GEMakers/gea-plugin-dishwasher.git)     |
-| [refrigerator](git+https://github.com/GEMakers/gea-plugin-refrigerator.git) |
-| [laundry](git+https://github.com/GEMakers/gea-plugin-laundry.git)           |
+| Appliance Type                                                      |
+|:--------------------------------------------------------------------|
+| [range](https://github.com/GEMakers/gea-plugin-range)               |
+| [dishwasher](https://github.com/GEMakers/gea-plugin-dishwasher)     |
+| [refrigerator](https://github.com/GEMakers/gea-plugin-refrigerator) |
+| [laundry](https://github.com/GEMakers/gea-plugin-laundry)           |
