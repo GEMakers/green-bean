@@ -10,7 +10,7 @@ The [Green Bean](http://firstbuild.com/greenbean) is a hardware adapter that pro
   - [Connecting the Green Bean to a Laptop](#connecting-the-green-bean-to-a-laptop)
   - [Installing the Software](#installing-the-software)
 2. [Using the Green Bean Software](#using-the-green-bean-software)
-  - [Reading the Cycle Status of the Dishwasher](reading-the-cycle-status-of-the-dishwasher)
+  - [Reading the Cycle Status of the Dishwasher](#reading-the-cycle-status-of-the-dishwasher)
   - [Starting a Cook Mode on the Oven](#starting-a-cook-mode-on-the-oven)
   - [Receiving a Temperature Alert from the Refrigerator](#receiving-a-temperature-alert-from-the-refrigerator)
   - [Receiving an End of Cycle Notification from the Dryer](#receiving-an-end-of-cycle-notification-from-the-dryer)
