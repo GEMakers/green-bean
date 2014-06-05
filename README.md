@@ -28,7 +28,7 @@ The Green Bean must be connected to your laptop with a USB micro cable. Again, a
 The software that controls the Green Bean and communicates with the appliances must be installed before you can start developing applications to control your appliance. If you have not already, please download and install [node.js](http://nodejs.org/download) and then install the Green Bean software by running the following command from a terminal.
 
 ```
-npm install git+https://github.com/GEMakers/green-bean.git
+npm install green-bean
 ```
 
 ### Using the Green Bean Software
