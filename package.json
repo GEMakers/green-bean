@@ -7,7 +7,7 @@
     "repository" : {
         "type": "git", "url": "https://github.com/GEMakers/green-bean.git"
     },
-    "version" : "0.1.0",
+    "version" : "0.1.1",
     "dependencies": {
         "gea-sdk": "git+https://github.com/GEMakers/gea-sdk.git",
         "gea-adapter-usb": "git+https://github.com/GEMakers/gea-adapter-usb.git",
