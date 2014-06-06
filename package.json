@@ -14,6 +14,7 @@
         "gea-plugin-range": "git+https://github.com/GEMakers/gea-plugin-range.git",
         "gea-plugin-dishwasher": "git+https://github.com/GEMakers/gea-plugin-dishwasher.git",
         "gea-plugin-refrigerator": "git+https://github.com/GEMakers/gea-plugin-refrigerator.git",
-        "gea-plugin-laundry": "git+https://github.com/GEMakers/gea-plugin-laundry.git"
+        "gea-plugin-laundry": "git+https://github.com/GEMakers/gea-plugin-laundry.git",
+        "gea-plugin-water-heater": "git+https://github.com/GEMakers/gea-plugin-water-heater.git"
     }
 }
