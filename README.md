@@ -14,6 +14,7 @@ The [Green Bean](http://firstbuild.com/greenbean) is a hardware adapter that pro
   - [Starting a Cook Mode on the Oven](#starting-a-cook-mode-on-the-oven)
   - [Receiving a Temperature Alert from the Refrigerator](#receiving-a-temperature-alert-from-the-refrigerator)
   - [Receiving an End of Cycle Notification from the Dryer](#receiving-an-end-of-cycle-notification-from-the-dryer)
+  - [Changing the Setpoint on the Water Heater](#changing-the-setpoint-on-the-water-heater)
 
 ### Getting Started
 There are a few steps that must be performed before we will be able to start controlling an appliance.
@@ -86,5 +87,16 @@ greenBean.connect("laundry", function (laundry) {
     laundry.endOfCycle.subscribe(function (value) {
         console.log("end of cycle:", value);
     });
+});
+```
+
+#### Changing the Setpoint on the Water Heater
+Below is an example of how to change the user setpoint on a water heater. For a more in-depth look at this example, see the [user setpoint](https://github.com/GEMakers/gea-plugin-water-heater#waterheaterusersetpoint) documentation.
+
+``` javascript
+var greenBean = require("green-bean");
+
+greenBean.connect("water-heater", function(waterHeater) {
+    waterHeater.userSetpoint.write(100);
 });
 ```
