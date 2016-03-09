@@ -20,7 +20,10 @@ The [Green Bean](http://firstbuild.com/greenbean) is a hardware adapter that pro
 There are a few steps that must be performed before we will be able to start controlling an appliance.
 
 #### Connecting the Green Bean to an Appliance
-The Green Bean must be connected to the appliance with an RJ45 cable. Any off-the-shelf ethernet cable should work. **It is important not to use a crossover cable as this may damage the Green Bean**. The RJ45 port is in a different location for each appliance, and can be located by referencing [this table](#rj45-locations).
+The Green Bean must be connected to a [supported
+appliance](SupportedAppliances.md) using an RJ45 cable. Any
+off-the-shelf ethernet cable should work. **It is important not to use a
+crossover cable as this may damage the Green Bean**.
 
 #### Connecting the Green Bean to a Laptop
 The Green Bean must be connected to your laptop with a USB micro cable. Again, any off-the-shelf USB micro cable should work. The Green Bean is powered over USB and should appear as a USB HID device on your laptop shortly after it is plugged in.
